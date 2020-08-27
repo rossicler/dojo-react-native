@@ -5,8 +5,10 @@
 ### Install nvm
 
 * <code>curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash</code>
+
 Close the terminal and run the following command:
 * <code>command -v nvm</code>
+
 It should print 'nvm' if the installation was successful
 
 ### Install node with nvm
